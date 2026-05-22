@@ -1,0 +1,7 @@
+name: astrbot_plugin_kardskb
+display_name: KardsKB
+desc: Kards开卡包
+short_desc: Kards 卡牌百科，支持开卡包模拟
+version: v1.0.0
+author: KardsKB
+repo: https://github.com/hhning/astrbot_plugin_KardsKB
